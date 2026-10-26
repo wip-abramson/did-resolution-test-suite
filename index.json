@@ -22,9 +22,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:45840da2-cfbb-4b12-8963-8e7ede118d6a",
+              "_testId": "urn:uuid:d281aead-99dc-4bcd-bc9b-58ceffc3c007",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "All HTTPS bindings MUST use TLS"
@@ -49,9 +49,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:e5812b02-fca0-4b8b-a1d8-c0781f954aed",
+              "_testId": "urn:uuid:ce900c85-9a8e-4de3-a7fc-bafbcf261809",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -63,12 +63,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 521,
+                "_idleStart": 560,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 871,
+              "duration": 910,
               "state": "passed",
               "speed": "slow"
             },
@@ -85,9 +85,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:05213117-e3ed-4f32-ae73-69d7f32e198e",
+              "_testId": "urn:uuid:416a9a5a-4fe5-436c-8b1c-d13edcc01b7f",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -99,7 +99,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1367,
+                "_idleStart": 1410,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -121,9 +121,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:01603fda-0d16-49bb-8631-e27d0a3fe84e",
+              "_testId": "urn:uuid:10686fc4-1416-4ae1-9b2a-355ba788f821",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -135,7 +135,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1371,
+                "_idleStart": 1414,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -157,9 +157,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:117f2f4b-9dd6-4dab-8fb3-b7e3251f5488",
+              "_testId": "urn:uuid:4c4e2d13-29ee-45c8-9d46-498bcb60dc25",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -171,12 +171,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1372,
+                "_idleStart": 1414,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 2,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -193,9 +193,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:98f07a34-bd32-4391-b558-66d26efa2d4b",
+              "_testId": "urn:uuid:d82926ba-1cea-4ad0-b2e0-6f420be661b1",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -207,7 +207,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1375,
+                "_idleStart": 1416,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -229,9 +229,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:bb4e9817-1c59-4885-a863-9958c68724db",
+              "_testId": "urn:uuid:df3e0833-9755-4c1b-97fe-f90b36dac525",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -243,12 +243,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1377,
+                "_idleStart": 1418,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 332,
+              "duration": 289,
               "state": "passed",
               "speed": "slow"
             },
@@ -265,9 +265,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:6f0ebba2-56b3-4c41-b32c-b07d76ebfcca",
+              "_testId": "urn:uuid:30b9253b-f9a9-4705-b8e2-a163f7aa2b8b",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -279,12 +279,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1709,
+                "_idleStart": 1707,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 336,
+              "duration": 290,
               "state": "passed",
               "speed": "slow"
             },
@@ -301,9 +301,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:1cbf493a-6af7-4631-8af2-2f133c5ee09c",
+              "_testId": "urn:uuid:045952a2-fa90-4054-8fa9-fc078912f71c",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"not-a-did\")"
@@ -315,12 +315,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2045,
+                "_idleStart": 1996,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 339,
+              "duration": 275,
               "state": "passed",
               "speed": "slow"
             },
@@ -337,9 +337,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:e239e0f4-9c2d-4335-82dc-0bf88882f53a",
+              "_testId": "urn:uuid:b831e78a-3986-4d06-b600-581be384d109",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"did:example\")"
@@ -351,12 +351,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2384,
+                "_idleStart": 2271,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 323,
+              "duration": 275,
               "state": "passed",
               "speed": "slow"
             },
@@ -373,9 +373,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:e9c9187f-4a7e-448d-85d0-a42a2aa63ebf",
+              "_testId": "urn:uuid:ca33c370-12bf-4bd8-92cb-4ee8b646fb52",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "METHOD_NOT_SUPPORTED error MUST map to HTTP status 501"
@@ -387,12 +387,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2707,
+                "_idleStart": 2547,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 336,
+              "duration": 278,
               "state": "passed",
               "speed": "slow"
             }
@@ -413,7 +413,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -432,9 +432,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "5J0XQxaQffujlk3c2Hrb8",
+          "parent": "FA4z_gm9oUO0IEvEjudYp",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-          "_testId": "urn:uuid:2e24ae62-3840-4265-a146-0c2b87f8a7c4"
+          "_testId": "urn:uuid:549a3524-b770-47da-9cfa-f95182c74dba"
         },
         {
           "title": "cheqd",
@@ -454,9 +454,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:2168d70e-a294-4f6a-8354-f7f2d7e2a2d5",
+              "_testId": "urn:uuid:bb028240-c0d4-4696-9e43-cd8a5ad2b504",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All HTTPS bindings MUST use TLS"
@@ -481,9 +481,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:8637be55-0a94-4ac2-a2e5-ac2417920409",
+              "_testId": "urn:uuid:86180a1f-7944-4ebd-9dcc-ecabe6c94e3f",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -495,12 +495,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3046,
+                "_idleStart": 2826,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 677,
+              "duration": 627,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -526,9 +526,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:5c613882-c235-4246-a7a0-9cea9cbe4096",
+              "_testId": "urn:uuid:ad69a660-d701-43a0-aaaf-edc69a971a79",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -540,7 +540,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3723,
+                "_idleStart": 3454,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -571,9 +571,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:8dffe8e7-cb53-4ac0-91b2-3dcbbdd48c09",
+              "_testId": "urn:uuid:06314e3f-6860-4e1e-8990-4260e3786231",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -585,12 +585,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3724,
+                "_idleStart": 3454,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 200",
@@ -616,9 +616,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:8d0c6886-fe19-4b7a-b434-d344b1a41ea1",
+              "_testId": "urn:uuid:ae835a5d-f592-4531-8c4c-38abb73ab55c",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -630,7 +630,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3725,
+                "_idleStart": 3455,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -661,9 +661,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:9c823941-ca5b-47ab-9e41-892590a593fa",
+              "_testId": "urn:uuid:60e5deea-9556-448b-889b-62cb56ae1878",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -675,7 +675,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3725,
+                "_idleStart": 3455,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -706,9 +706,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:61298a46-f418-49c5-9ec9-5456e4c9a95c",
+              "_testId": "urn:uuid:471877d5-9acd-4d25-b820-3ac59a6c29e8",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -720,12 +720,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 3726,
+                "_idleStart": 3456,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 570,
+              "duration": 588,
               "state": "passed",
               "speed": "slow"
             },
@@ -742,9 +742,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:8bdc7e4a-d0ff-4732-b42e-80e8aba01c2e",
+              "_testId": "urn:uuid:0393fb94-6104-4899-86c6-a4894495e41b",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -756,12 +756,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4296,
+                "_idleStart": 4045,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 500,
+              "duration": 376,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -787,9 +787,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:7a661d9c-4fa3-4d56-b05a-7d8d9572777d",
+              "_testId": "urn:uuid:cd779726-6bb1-45d7-a334-74170d6ae67b",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -801,12 +801,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4796,
+                "_idleStart": 4421,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 529,
+              "duration": 505,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -832,9 +832,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:0c13c15a-5eba-49ba-b9a5-6063a9932733",
+              "_testId": "urn:uuid:66fd8476-b104-4f63-933d-3a0e2182e8bb",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -846,12 +846,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5325,
+                "_idleStart": 4927,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -877,9 +877,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:c6fbf6b7-0e4f-4268-b7cc-e7b1475381b3",
+              "_testId": "urn:uuid:b5e67ccb-4c59-4a62-bf82-56b4b192edb5",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -891,7 +891,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5326,
+                "_idleStart": 4928,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -922,9 +922,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:25103eb8-57d0-46d0-a8a5-5abd1b4c0b5a",
+              "_testId": "urn:uuid:f30ab94c-8ab2-4345-951a-881b048f7bc2",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -936,7 +936,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5327,
+                "_idleStart": 4929,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -967,9 +967,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:9ba9abdb-4ee1-4952-91bf-8f00ce7994cb",
+              "_testId": "urn:uuid:4167483a-a96e-4a52-a0d9-f6f49760006e",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -981,7 +981,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5327,
+                "_idleStart": 4929,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1012,9 +1012,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:c967c72a-3ce6-4de5-9e1d-82f64fcf25ee",
+              "_testId": "urn:uuid:3c8ba238-3457-4937-90ee-0831dc422e31",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -1026,12 +1026,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5328,
+                "_idleStart": 4930,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 547,
+              "duration": 563,
               "state": "passed",
               "speed": "slow"
             },
@@ -1048,9 +1048,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:b00d66db-cb2b-42b9-bcaf-4208fe1f2892",
+              "_testId": "urn:uuid:5c6d9e1a-6b67-40e9-a2e3-022ec57225a4",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -1062,12 +1062,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5875,
+                "_idleStart": 5494,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 615,
+              "duration": 593,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -1093,9 +1093,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:1ee821a2-7f92-43f5-bb03-844e5ca2c791",
+              "_testId": "urn:uuid:3ca79bb8-e5ec-4297-836d-1747b1c050ba",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"not-a-did\")"
@@ -1107,12 +1107,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6490,
+                "_idleStart": 6088,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 522,
+              "duration": 626,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 400",
@@ -1138,9 +1138,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:5d7d3ed5-fada-47be-a269-85eeda2b10d9",
+              "_testId": "urn:uuid:9ccd7a20-86f5-43ac-946b-bdca1c9f3bc2",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"did:example\")"
@@ -1152,12 +1152,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7014,
+                "_idleStart": 6715,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 467,
+              "duration": 397,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 400",
@@ -1183,9 +1183,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:db63dc90-0df6-4bba-b376-728826a9111e",
+              "_testId": "urn:uuid:677e4e37-e5b6-4528-9788-5bfd756fb065",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "METHOD_NOT_SUPPORTED error MUST map to HTTP status 501"
@@ -1197,12 +1197,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7481,
+                "_idleStart": 7113,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 531,
+              "duration": 404,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 501",
@@ -1228,9 +1228,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:570322f4-eed9-4449-8b06-84faa67dddec",
+              "_testId": "urn:uuid:4d3f5a31-bf0c-4c7a-8589-bb0386ec2519",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "NOT_FOUND error MUST map to HTTP status 404"
@@ -1242,12 +1242,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8012,
+                "_idleStart": 7518,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 548,
+              "duration": 321,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 404",
@@ -1273,9 +1273,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:a6d63ed8-de9a-4f65-b1e2-ca264ef5bd44",
+              "_testId": "urn:uuid:87e061cb-4952-42e4-a016-b716ce46fb25",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "NOT_FOUND error MUST map to HTTP status 404"
@@ -1287,12 +1287,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8560,
+                "_idleStart": 7841,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 443,
+              "duration": 408,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 404",
@@ -1318,9 +1318,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:673bc1f3-65b2-4dee-86f4-133c50dd5915",
+              "_testId": "urn:uuid:ae2469be-1f13-4735-a047-da2196b3310b",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If deactivated metadata property is true, HTTP response status MUST be 410"
@@ -1332,12 +1332,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9005,
+                "_idleStart": 8249,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 527,
+              "duration": 428,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 410",
@@ -1367,7 +1367,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -1386,9 +1386,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "5J0XQxaQffujlk3c2Hrb8",
+          "parent": "FA4z_gm9oUO0IEvEjudYp",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-          "_testId": "urn:uuid:42aeffe0-c1de-45f2-baff-4c69a72498d1"
+          "_testId": "urn:uuid:7a64a3d5-c22d-47fe-89d9-830362630e40"
         },
         {
           "title": "iden3",
@@ -1408,9 +1408,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:b3e83eed-acc7-4bb6-96a3-06bc295b3dff",
+              "_testId": "urn:uuid:ae8cf15e-569f-4847-a1cd-4ffed2deae0f",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "All HTTPS bindings MUST use TLS"
@@ -1435,9 +1435,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:c9199aaf-db9e-4930-895f-7ec57bd97699",
+              "_testId": "urn:uuid:a2c4c64f-23cb-4ab1-9ea3-35aebc99d5df",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -1449,12 +1449,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9534,
+                "_idleStart": 8679,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 810,
+              "duration": 760,
               "state": "passed",
               "speed": "slow"
             },
@@ -1471,9 +1471,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:4ed01be9-bf4b-4bc5-9c3e-63ea890ac4db",
+              "_testId": "urn:uuid:0a83a610-4d6a-4c78-afc1-967da8e5e668",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -1485,7 +1485,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10343,
+                "_idleStart": 9438,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1507,9 +1507,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:3e0660b1-b6bd-43b0-a151-7ed796a97d35",
+              "_testId": "urn:uuid:8b5e35e0-cc79-495a-a6b6-9988376b3afc",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -1521,12 +1521,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10344,
+                "_idleStart": 9440,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -1543,9 +1543,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:1b4bcadb-7f4f-45ff-865d-a6a5be56d255",
+              "_testId": "urn:uuid:12164d30-bc69-4f7c-afaf-4f70e676f4d6",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -1557,7 +1557,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10344,
+                "_idleStart": 9440,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1579,9 +1579,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:8f0b25ed-5791-4674-a80e-69c3b2c4eb50",
+              "_testId": "urn:uuid:0cab8b0f-2777-488c-8f64-dc1924907577",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -1593,12 +1593,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10345,
+                "_idleStart": 9440,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -1615,9 +1615,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:effcc269-c1b8-4b06-9546-b4c469db27f0",
+              "_testId": "urn:uuid:40696a7c-fc8a-468e-b660-5d9501a821e8",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -1629,12 +1629,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10345,
+                "_idleStart": 9441,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 460,
+              "duration": 453,
               "state": "passed",
               "speed": "slow"
             },
@@ -1651,9 +1651,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:34a16f94-cddc-4bb4-a6b6-cf7b801dc638",
+              "_testId": "urn:uuid:cda352bf-839c-44c1-a4fb-d626fba344d0",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -1665,12 +1665,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10806,
+                "_idleStart": 9895,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 343,
+              "duration": 347,
               "state": "passed",
               "speed": "slow"
             },
@@ -1687,9 +1687,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:754987d8-a4dc-42ea-9da4-6b37037a45ac",
+              "_testId": "urn:uuid:fe6dde05-bfa6-46a8-b8f9-84b7a38a81d9",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"not-a-did\")"
@@ -1701,12 +1701,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11149,
+                "_idleStart": 10242,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 200,
+              "duration": 153,
               "state": "passed",
               "speed": "slow"
             },
@@ -1723,9 +1723,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:ab2f5732-9438-4c51-ab51-01af7c2d8ec1",
+              "_testId": "urn:uuid:45212341-e571-452c-a097-f68dd505af85",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"did:example\")"
@@ -1737,12 +1737,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11350,
+                "_idleStart": 10396,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 173,
+              "duration": 168,
               "state": "passed",
               "speed": "slow"
             },
@@ -1759,9 +1759,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:8a5dcb6d-5261-4c03-a7b0-90b41314e7e5",
+              "_testId": "urn:uuid:57fdbcd7-fa76-43fd-a87a-64e02876f30b",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "METHOD_NOT_SUPPORTED error MUST map to HTTP status 501"
@@ -1773,12 +1773,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11523,
+                "_idleStart": 10565,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 232,
+              "duration": 357,
               "state": "passed",
               "speed": "slow"
             },
@@ -1795,9 +1795,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:bc6a1bbd-163b-4182-af1d-9f3f24a1e65d",
+              "_testId": "urn:uuid:ee89436f-e50b-4fb2-ad02-f3f3d0d72b0d",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "NOT_FOUND error MUST map to HTTP status 404"
@@ -1809,12 +1809,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11755,
+                "_idleStart": 10923,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 229,
+              "duration": 186,
               "state": "passed",
               "speed": "slow"
             }
@@ -1835,7 +1835,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -1854,9 +1854,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "5J0XQxaQffujlk3c2Hrb8",
+          "parent": "FA4z_gm9oUO0IEvEjudYp",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-          "_testId": "urn:uuid:46ec5985-bbeb-4116-b825-50c4949aedda"
+          "_testId": "urn:uuid:6d66bbbe-e1b4-4375-b1bd-f566e446065c"
         }
       ],
       "root": false,
@@ -1872,13 +1872,13 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "tqHSvQqRpdt_kAQ0Fen1f",
+      "parent": "SovBblynxBrSC2dgOz5us",
       "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
       "matrix": true,
       "report": true,
       "rowLabel": "Test Name",
       "columnLabel": "Implementer",
-      "_testId": "urn:uuid:8e019e28-8b17-4629-9c6a-dd4dc24c70c7",
+      "_testId": "urn:uuid:33c45b56-250f-4202-b376-3e329f184cc4",
       "columns": [
         "DIF",
         "cheqd",
@@ -1902,9 +1902,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:45840da2-cfbb-4b12-8963-8e7ede118d6a",
+              "_testId": "urn:uuid:d281aead-99dc-4bcd-bc9b-58ceffc3c007",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "All HTTPS bindings MUST use TLS"
@@ -1929,9 +1929,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:2168d70e-a294-4f6a-8354-f7f2d7e2a2d5",
+              "_testId": "urn:uuid:bb028240-c0d4-4696-9e43-cd8a5ad2b504",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All HTTPS bindings MUST use TLS"
@@ -1956,9 +1956,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:b3e83eed-acc7-4bb6-96a3-06bc295b3dff",
+              "_testId": "urn:uuid:ae8cf15e-569f-4847-a1cd-4ffed2deae0f",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "All HTTPS bindings MUST use TLS"
@@ -1989,9 +1989,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:e5812b02-fca0-4b8b-a1d8-c0781f954aed",
+              "_testId": "urn:uuid:ce900c85-9a8e-4de3-a7fc-bafbcf261809",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -2003,12 +2003,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 521,
+                "_idleStart": 560,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 871,
+              "duration": 910,
               "state": "passed",
               "speed": "slow"
             },
@@ -2025,9 +2025,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:7a661d9c-4fa3-4d56-b05a-7d8d9572777d",
+              "_testId": "urn:uuid:cd779726-6bb1-45d7-a334-74170d6ae67b",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -2039,12 +2039,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 4796,
+                "_idleStart": 4421,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 529,
+              "duration": 505,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -2070,9 +2070,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:c9199aaf-db9e-4930-895f-7ec57bd97699",
+              "_testId": "urn:uuid:a2c4c64f-23cb-4ab1-9ea3-35aebc99d5df",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "All conforming DID resolvers MUST implement the GET version of the HTTPS binding"
@@ -2084,12 +2084,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9534,
+                "_idleStart": 8679,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 810,
+              "duration": 760,
               "state": "passed",
               "speed": "slow"
             }
@@ -2112,9 +2112,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:05213117-e3ed-4f32-ae73-69d7f32e198e",
+              "_testId": "urn:uuid:416a9a5a-4fe5-436c-8b1c-d13edcc01b7f",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -2126,7 +2126,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1367,
+                "_idleStart": 1410,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2148,9 +2148,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:0c13c15a-5eba-49ba-b9a5-6063a9932733",
+              "_testId": "urn:uuid:66fd8476-b104-4f63-933d-3a0e2182e8bb",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -2162,12 +2162,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5325,
+                "_idleStart": 4927,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -2193,9 +2193,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:4ed01be9-bf4b-4bc5-9c3e-63ea890ac4db",
+              "_testId": "urn:uuid:0a83a610-4d6a-4c78-afc1-967da8e5e668",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If Accept is application/did-resolution, HTTP body MUST contain a DID resolution result"
@@ -2207,7 +2207,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10343,
+                "_idleStart": 9438,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2235,9 +2235,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:01603fda-0d16-49bb-8631-e27d0a3fe84e",
+              "_testId": "urn:uuid:10686fc4-1416-4ae1-9b2a-355ba788f821",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -2249,7 +2249,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1371,
+                "_idleStart": 1414,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2271,9 +2271,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:c6fbf6b7-0e4f-4268-b7cc-e7b1475381b3",
+              "_testId": "urn:uuid:b5e67ccb-4c59-4a62-bf82-56b4b192edb5",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -2285,7 +2285,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5326,
+                "_idleStart": 4928,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2316,9 +2316,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:3e0660b1-b6bd-43b0-a151-7ed796a97d35",
+              "_testId": "urn:uuid:8b5e35e0-cc79-495a-a6b6-9988376b3afc",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If function is successful and returns a didDocument, HTTP response status code MUST be 200"
@@ -2330,12 +2330,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10344,
+                "_idleStart": 9440,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -2358,9 +2358,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:117f2f4b-9dd6-4dab-8fb3-b7e3251f5488",
+              "_testId": "urn:uuid:4c4e2d13-29ee-45c8-9d46-498bcb60dc25",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -2372,12 +2372,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1372,
+                "_idleStart": 1414,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 2,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -2394,9 +2394,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:25103eb8-57d0-46d0-a8a5-5abd1b4c0b5a",
+              "_testId": "urn:uuid:f30ab94c-8ab2-4345-951a-881b048f7bc2",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -2408,7 +2408,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5327,
+                "_idleStart": 4929,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2439,9 +2439,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:1b4bcadb-7f4f-45ff-865d-a6a5be56d255",
+              "_testId": "urn:uuid:12164d30-bc69-4f7c-afaf-4f70e676f4d6",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "HTTP response MUST contain a Content-Type header whose value MUST equal contentType in didResolutionMetadata"
@@ -2453,7 +2453,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10344,
+                "_idleStart": 9440,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2481,9 +2481,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:98f07a34-bd32-4391-b558-66d26efa2d4b",
+              "_testId": "urn:uuid:d82926ba-1cea-4ad0-b2e0-6f420be661b1",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -2495,7 +2495,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1375,
+                "_idleStart": 1416,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2517,9 +2517,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:9ba9abdb-4ee1-4952-91bf-8f00ce7994cb",
+              "_testId": "urn:uuid:4167483a-a96e-4a52-a0d9-f6f49760006e",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -2531,7 +2531,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5327,
+                "_idleStart": 4929,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2562,9 +2562,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:8f0b25ed-5791-4674-a80e-69c3b2c4eb50",
+              "_testId": "urn:uuid:0cab8b0f-2777-488c-8f64-dc1924907577",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "HTTP response body MUST contain the didDocument result of the DID resolution function"
@@ -2576,12 +2576,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10345,
+                "_idleStart": 9440,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -2604,9 +2604,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:bb4e9817-1c59-4885-a863-9958c68724db",
+              "_testId": "urn:uuid:df3e0833-9755-4c1b-97fe-f90b36dac525",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -2618,12 +2618,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1377,
+                "_idleStart": 1418,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 332,
+              "duration": 289,
               "state": "passed",
               "speed": "slow"
             },
@@ -2640,9 +2640,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:c967c72a-3ce6-4de5-9e1d-82f64fcf25ee",
+              "_testId": "urn:uuid:3c8ba238-3457-4937-90ee-0831dc422e31",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -2654,12 +2654,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5328,
+                "_idleStart": 4930,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 547,
+              "duration": 563,
               "state": "passed",
               "speed": "slow"
             },
@@ -2676,9 +2676,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:effcc269-c1b8-4b06-9546-b4c469db27f0",
+              "_testId": "urn:uuid:40696a7c-fc8a-468e-b660-5d9501a821e8",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If Accept is set to a DID representation media type, response body MUST contain only the didDocument (not the full resolution result)"
@@ -2690,12 +2690,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10345,
+                "_idleStart": 9441,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 460,
+              "duration": 453,
               "state": "passed",
               "speed": "slow"
             }
@@ -2718,9 +2718,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:6f0ebba2-56b3-4c41-b32c-b07d76ebfcca",
+              "_testId": "urn:uuid:30b9253b-f9a9-4705-b8e2-a163f7aa2b8b",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -2732,12 +2732,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 1709,
+                "_idleStart": 1707,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 336,
+              "duration": 290,
               "state": "passed",
               "speed": "slow"
             },
@@ -2754,9 +2754,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:b00d66db-cb2b-42b9-bcaf-4208fe1f2892",
+              "_testId": "urn:uuid:5c6d9e1a-6b67-40e9-a2e3-022ec57225a4",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -2768,12 +2768,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 5875,
+                "_idleStart": 5494,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 615,
+              "duration": 593,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -2799,9 +2799,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:34a16f94-cddc-4bb4-a6b6-cf7b801dc638",
+              "_testId": "urn:uuid:cda352bf-839c-44c1-a4fb-d626fba344d0",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "GET binding: resolver MUST accept URL-encoded DIDs (required because clients MUST URL-encode when resolution options other than accept are provided)"
@@ -2813,12 +2813,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 10806,
+                "_idleStart": 9895,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 343,
+              "duration": 347,
               "state": "passed",
               "speed": "slow"
             }
@@ -2841,9 +2841,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:1cbf493a-6af7-4631-8af2-2f133c5ee09c",
+              "_testId": "urn:uuid:045952a2-fa90-4054-8fa9-fc078912f71c",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"not-a-did\")"
@@ -2855,12 +2855,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2045,
+                "_idleStart": 1996,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 339,
+              "duration": 275,
               "state": "passed",
               "speed": "slow"
             },
@@ -2877,9 +2877,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:1ee821a2-7f92-43f5-bb03-844e5ca2c791",
+              "_testId": "urn:uuid:3ca79bb8-e5ec-4297-836d-1747b1c050ba",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"not-a-did\")"
@@ -2891,12 +2891,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 6490,
+                "_idleStart": 6088,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 522,
+              "duration": 626,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 400",
@@ -2922,9 +2922,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:754987d8-a4dc-42ea-9da4-6b37037a45ac",
+              "_testId": "urn:uuid:fe6dde05-bfa6-46a8-b8f9-84b7a38a81d9",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"not-a-did\")"
@@ -2936,12 +2936,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11149,
+                "_idleStart": 10242,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 200,
+              "duration": 153,
               "state": "passed",
               "speed": "slow"
             }
@@ -2964,9 +2964,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:e239e0f4-9c2d-4335-82dc-0bf88882f53a",
+              "_testId": "urn:uuid:b831e78a-3986-4d06-b600-581be384d109",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"did:example\")"
@@ -2978,12 +2978,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2384,
+                "_idleStart": 2271,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 323,
+              "duration": 275,
               "state": "passed",
               "speed": "slow"
             },
@@ -3000,9 +3000,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:5d7d3ed5-fada-47be-a269-85eeda2b10d9",
+              "_testId": "urn:uuid:9ccd7a20-86f5-43ac-946b-bdca1c9f3bc2",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"did:example\")"
@@ -3014,12 +3014,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7014,
+                "_idleStart": 6715,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 467,
+              "duration": 397,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 400",
@@ -3045,9 +3045,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:ab2f5732-9438-4c51-ab51-01af7c2d8ec1",
+              "_testId": "urn:uuid:45212341-e571-452c-a097-f68dd505af85",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "INVALID_DID error MUST map to HTTP status 400 (input: \"did:example\")"
@@ -3059,12 +3059,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11350,
+                "_idleStart": 10396,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 173,
+              "duration": 168,
               "state": "passed",
               "speed": "slow"
             }
@@ -3087,9 +3087,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "a1KH2_4JC6isEt4sz68ky",
+              "parent": "DGYHubZbLQM_9ETJEo_Og",
               "ctx": null,
-              "_testId": "urn:uuid:e9c9187f-4a7e-448d-85d0-a42a2aa63ebf",
+              "_testId": "urn:uuid:ca33c370-12bf-4bd8-92cb-4ee8b646fb52",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "METHOD_NOT_SUPPORTED error MUST map to HTTP status 501"
@@ -3101,12 +3101,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 2707,
+                "_idleStart": 2547,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 336,
+              "duration": 278,
               "state": "passed",
               "speed": "slow"
             },
@@ -3123,9 +3123,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:db63dc90-0df6-4bba-b376-728826a9111e",
+              "_testId": "urn:uuid:677e4e37-e5b6-4528-9788-5bfd756fb065",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "METHOD_NOT_SUPPORTED error MUST map to HTTP status 501"
@@ -3137,12 +3137,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 7481,
+                "_idleStart": 7113,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 531,
+              "duration": 404,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 501",
@@ -3168,9 +3168,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:8a5dcb6d-5261-4c03-a7b0-90b41314e7e5",
+              "_testId": "urn:uuid:57fdbcd7-fa76-43fd-a87a-64e02876f30b",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "METHOD_NOT_SUPPORTED error MUST map to HTTP status 501"
@@ -3182,12 +3182,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11523,
+                "_idleStart": 10565,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 232,
+              "duration": 357,
               "state": "passed",
               "speed": "slow"
             }
@@ -3220,9 +3220,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:a6d63ed8-de9a-4f65-b1e2-ca264ef5bd44",
+              "_testId": "urn:uuid:87e061cb-4952-42e4-a016-b716ce46fb25",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "NOT_FOUND error MUST map to HTTP status 404"
@@ -3234,12 +3234,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 8560,
+                "_idleStart": 7841,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 443,
+              "duration": 408,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 404",
@@ -3265,9 +3265,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "hd-zicVkHeeqJvbt-DprL",
+              "parent": "fBpUtykwcq13t1A9CNOXA",
               "ctx": null,
-              "_testId": "urn:uuid:bc6a1bbd-163b-4182-af1d-9f3f24a1e65d",
+              "_testId": "urn:uuid:ee89436f-e50b-4fb2-ad02-f3f3d0d72b0d",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "NOT_FOUND error MUST map to HTTP status 404"
@@ -3279,12 +3279,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11755,
+                "_idleStart": 10923,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 229,
+              "duration": 186,
               "state": "passed",
               "speed": "slow"
             }
@@ -3317,9 +3317,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/10-bindings.js",
-              "parent": "Bzwjo8D5SV5N8o1UgDPa8",
+              "parent": "AUkgAJJsayzaNyExMcBlE",
               "ctx": null,
-              "_testId": "urn:uuid:673bc1f3-65b2-4dee-86f4-133c50dd5915",
+              "_testId": "urn:uuid:ae2469be-1f13-4735-a047-da2196b3310b",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If deactivated metadata property is true, HTTP response status MUST be 410"
@@ -3331,12 +3331,12 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 9005,
+                "_idleStart": 8249,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 527,
+              "duration": 428,
               "state": "failed",
               "err": {
                 "message": "expected 406 to equal 410",
@@ -3385,9 +3385,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:aba46abf-32aa-47a0-860a-5b65712e86a1",
+              "_testId": "urn:uuid:3bf232fc-0b8f-4cdf-be4f-d2be03e07b31",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "Implementation has at least one valid DID to test"
@@ -3411,9 +3411,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:f0c14e50-227e-4c98-8f98-d6ec0c0990fa",
+              "_testId": "urn:uuid:5263edde-414a-494d-8285-9d10c5d3a95a",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -3424,7 +3424,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11985,
+                "_idleStart": 11110,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3446,7 +3446,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
               "state": "pending"
             },
@@ -3463,9 +3463,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:b3afa34e-1f14-456a-bbd3-68a440f2720d",
+              "_testId": "urn:uuid:e04eb2c4-d3bd-43a2-a84a-6c71fd2c6df8",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -3476,7 +3476,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11986,
+                "_idleStart": 11111,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3499,9 +3499,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:853bd34d-14de-43df-bd76-6f34a53522d7",
+              "_testId": "urn:uuid:a4442846-b0b5-4991-b9ae-9f6c2c41f9b2",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -3512,7 +3512,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11986,
+                "_idleStart": 11111,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3535,9 +3535,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:34bde892-8f89-4143-aa67-f45083599abd",
+              "_testId": "urn:uuid:7f3a3488-81b8-402f-9ced-778441a35ecb",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -3548,7 +3548,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11987,
+                "_idleStart": 11112,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3571,9 +3571,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:25b214de-07f2-4538-83b2-659f2863a04b",
+              "_testId": "urn:uuid:95c89cb4-7d85-4040-8116-866639461fe2",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -3584,7 +3584,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11987,
+                "_idleStart": 11113,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3607,9 +3607,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:9d232530-c25b-48c8-b378-9d076074f324",
+              "_testId": "urn:uuid:c21acb7a-9ee8-444e-bd8b-50351279c4ce",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -3620,7 +3620,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11988,
+                "_idleStart": 11113,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3652,9 +3652,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:ff0122e1-52d6-4b73-bcc3-16cd60d023a3",
+              "_testId": "urn:uuid:d840f6bb-4c8d-4161-9bcf-e70cfcd78e3f",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -3665,13 +3665,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11989,
+                "_idleStart": 11114,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=If%20the%20resolution%20is%20unsuccessful%2C%20this%20structure%20MUST%20contain%20an%20error%20property%20describing%20the%20error.",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -3688,9 +3688,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:e4880bdd-0671-46c9-9962-e1b3d712e1d6",
+              "_testId": "urn:uuid:4d2596c0-cace-4aba-af87-411f848da7ad",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -3701,7 +3701,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11989,
+                "_idleStart": 11114,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3724,9 +3724,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:115ac274-97cf-4fab-a880-b3247d8ad0c5",
+              "_testId": "urn:uuid:19bd952f-3cd9-4873-a714-1f40f7fc2bea",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -3737,7 +3737,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11990,
+                "_idleStart": 11115,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3769,9 +3769,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:9ede8b9e-dee4-44d7-9c71-be0c02b6227e",
+              "_testId": "urn:uuid:fd2a255b-29c4-4592-801c-a8ad558e267d",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -3782,7 +3782,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11990,
+                "_idleStart": 11116,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3805,9 +3805,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:c49fd14d-fb1a-410b-b200-d03cc9ef57fe",
+              "_testId": "urn:uuid:acb40944-e7b7-4f4f-acde-004809375e3c",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -3818,7 +3818,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11991,
+                "_idleStart": 11116,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3841,9 +3841,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:712f28dc-1e59-49c9-855c-89d8c2278c55",
+              "_testId": "urn:uuid:bfd1a1bf-8a49-488c-8278-ec45e58ce998",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the DID method is not supported, produces a METHOD_NOT_SUPPORTED error and conformant resolution result"
@@ -3854,7 +3854,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11991,
+                "_idleStart": 11116,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3886,9 +3886,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:838babbb-f0cb-4162-a01c-c9ce13b135b7",
+              "_testId": "urn:uuid:89b24639-7ef2-42ae-9938-cff923a2e684",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution options are invalid, produces an INVALID_OPTIONS (or FEATURE_NOT_SUPPORTED) error and conformant resolution result"
@@ -3899,13 +3899,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11993,
+                "_idleStart": 11118,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=are%20valid.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 681,
+              "duration": 774,
               "state": "failed",
               "err": {}
             }
@@ -3926,7 +3926,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -3945,9 +3945,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "Ji4aSFohW0jSt9JXL7wrg",
+          "parent": "pCz1UdeQGEnlM9mNkorgx",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-          "_testId": "urn:uuid:97e64cdb-0f25-4c34-9a96-35cfa93fd3cf"
+          "_testId": "urn:uuid:41ab024a-2426-41b0-a69b-777ec7231a82"
         },
         {
           "title": "cheqd",
@@ -3967,9 +3967,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:8962c304-ea2a-4739-a174-206fc823aa50",
+              "_testId": "urn:uuid:fa0d38bf-42fb-4b74-8ac0-45243b82101f",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "Implementation has at least one valid DID to test"
@@ -3993,9 +3993,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:87743bba-13f1-4e0d-936a-8b261a720389",
+              "_testId": "urn:uuid:2711a916-b0e8-4a1d-bf99-58ce9740471b",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -4006,7 +4006,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12676,
+                "_idleStart": 11893,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4037,7 +4037,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
               "state": "pending"
             },
@@ -4054,9 +4054,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:0e6292dc-2361-4550-ac5d-15831274c8e2",
+              "_testId": "urn:uuid:0e3867fa-01f6-4e6b-961a-df030526a328",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -4067,7 +4067,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12677,
+                "_idleStart": 11893,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4099,9 +4099,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:482ae2b7-6e68-4fd3-b3ea-794b2d3635d9",
+              "_testId": "urn:uuid:22ded660-3d05-4f36-b97f-a1ec753bb3cf",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -4112,7 +4112,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12677,
+                "_idleStart": 11893,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4144,9 +4144,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:378f5aff-c248-4fa8-9e3b-93043c3ffb52",
+              "_testId": "urn:uuid:24ba590d-084b-4273-83f4-48405d8a54d9",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -4157,7 +4157,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12677,
+                "_idleStart": 11894,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4189,9 +4189,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:8e872e0b-d08e-4afc-b7c8-99a7be59a6a8",
+              "_testId": "urn:uuid:cd46a3f2-2c6f-4906-8465-ea1bf24448eb",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -4202,13 +4202,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12678,
+                "_idleStart": 11895,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#did-resolution-options:~:text=If%20the%20resolution%20is%20successful%2C%20this%20MUST%20be%20a%20metadata%20structure",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -4234,9 +4234,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:141df29f-0a2a-4e6c-811b-4274062122c3",
+              "_testId": "urn:uuid:def55628-d5a7-4ba9-a216-ce172483290c",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -4247,7 +4247,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12678,
+                "_idleStart": 11895,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4278,7 +4278,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
               "state": "pending"
             },
@@ -4295,9 +4295,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:a377a753-4c34-48cf-844b-9aaeaa9cc1db",
+              "_testId": "urn:uuid:dc20e476-7cb4-45ec-a2c5-ea60167a12f3",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -4308,7 +4308,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12678,
+                "_idleStart": 11896,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4340,9 +4340,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:f9d7e41c-9da3-488e-afa2-f65ec1ebcdfe",
+              "_testId": "urn:uuid:23eecbb3-28b7-42d6-ad5a-053528857b22",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -4353,13 +4353,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12679,
+                "_idleStart": 11896,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=If%20the%20resolution%20is%20successful%2C%20this%20MUST%20be%20a%20DID%20document%20that%20is%20capable%20of%20being%20represented%20in%20one%20of%20the%20conformant%20representations%20of%20the%20Decentralized%20Identifiers%20(DIDs)%20v1.0%20specification",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -4385,9 +4385,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:dcccae32-6ac3-4997-bf5f-24d79fe26643",
+              "_testId": "urn:uuid:a441c6a6-47cb-4dce-ab01-8e7d6dd549e4",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -4398,7 +4398,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12679,
+                "_idleStart": 11896,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4430,9 +4430,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:853c360d-51ac-4c90-891d-88447b4fa384",
+              "_testId": "urn:uuid:c90609ad-84df-408c-95ad-da15b353ca51",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -4443,7 +4443,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12679,
+                "_idleStart": 11897,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4475,9 +4475,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:baa38c67-fc70-4d48-942c-83d2b19b4ab1",
+              "_testId": "urn:uuid:27beb45d-68f6-470a-b40c-b6b5705b1943",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -4488,7 +4488,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12680,
+                "_idleStart": 11897,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4519,9 +4519,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:8a69f925-8774-4517-8981-019248d411a4",
+              "_testId": "urn:uuid:ffa010ce-a60e-4b8c-b56e-987327b6f703",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -4532,7 +4532,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12680,
+                "_idleStart": 11898,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4555,9 +4555,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:feda23e3-b048-4647-a80b-2f5cd36a319b",
+              "_testId": "urn:uuid:1fbc10f0-9afd-4d57-84d7-3116a958fe23",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -4568,13 +4568,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12681,
+                "_idleStart": 11898,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#did-resolution-options:~:text=If%20the%20resolution%20is%20unsuccessful%2C%20this%20output%20MUST%20be%20an%20empty%20metadata%20structure.",
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {
                 "message": "expected { didResolutionMetadata: { …(4) } } to have property 'didDocumentMetadata'",
@@ -4582,7 +4582,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:31Z",
+                    "retrieved": "2026-10-26T16:17:17Z",
                     "did": {}
                   }
                 },
@@ -4605,9 +4605,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:83f271a3-d3bb-4667-81cc-d76d9874c3e4",
+              "_testId": "urn:uuid:75000811-1c0c-4fdc-a43f-1fd53a122346",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -4618,13 +4618,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12682,
+                "_idleStart": 11899,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=Validate%20that%20the%20input%20DID%20conforms%20to%20the%20did%20rule%20of%20the%20DID%20Syntax.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -4649,9 +4649,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:d3e2081b-a5d2-46cb-b0af-41a00dea8ddc",
+              "_testId": "urn:uuid:00a6ef7d-7841-43b2-b3b8-c6a2ef601f52",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -4662,13 +4662,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12683,
+                "_idleStart": 11900,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=If%20the%20resolution%20is%20unsuccessful%2C%20this%20structure%20MUST%20contain%20an%20error%20property%20describing%20the%20error.",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -4685,9 +4685,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:4afafc04-a860-4b5e-893c-60596abc82cd",
+              "_testId": "urn:uuid:672ccc58-fffc-483b-b823-9bfea41a78d1",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -4698,7 +4698,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12683,
+                "_idleStart": 11900,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4712,7 +4712,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:32Z",
+                    "retrieved": "2026-10-26T16:17:18Z",
                     "did": {}
                   }
                 },
@@ -4735,9 +4735,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:eb08fc6e-8638-4f5a-a73a-b315fab088bb",
+              "_testId": "urn:uuid:9d80627b-cdcf-41ba-af70-ab70ca1910e5",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID method is not supported, produces a METHOD_NOT_SUPPORTED error and conformant resolution result"
@@ -4748,13 +4748,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12684,
+                "_idleStart": 11900,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=Determine%20whether%20the%20DID%20method%20of%20the%20input%20DID%20is%20supported%20by%20the%20DID%20resolver%20that%20implements%20this%20algorithm.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -4779,9 +4779,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:57bee565-de71-4fd2-bae4-5323e37292d2",
+              "_testId": "urn:uuid:db16695a-c542-489c-8ed4-18fe26c7fb49",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution options are invalid, produces an INVALID_OPTIONS (or FEATURE_NOT_SUPPORTED) error and conformant resolution result"
@@ -4792,13 +4792,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12685,
+                "_idleStart": 11902,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=are%20valid.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 531,
+              "duration": 420,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -4823,9 +4823,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:274d7d99-aecd-45d1-9395-64c647d340a0",
+              "_testId": "urn:uuid:3eabde61-45f0-422f-a41c-2c2d9ce68206",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID does not exist, produces a NOT_FOUND error and conformant resolution result"
@@ -4836,13 +4836,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13216,
+                "_idleStart": 12322,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=does%20not%20exist%2C%20return%20the%20following%20result%3A",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -4867,9 +4867,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:32269f7d-1f17-47d4-836a-9bf147335000",
+              "_testId": "urn:uuid:d33550b6-abdd-4d4b-9f7d-0d565ff07c65",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID does not exist, produces a NOT_FOUND error and conformant resolution result"
@@ -4880,13 +4880,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13217,
+                "_idleStart": 12323,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=does%20not%20exist%2C%20return%20the%20following%20result%3A",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -4911,9 +4911,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:e36df8d4-5780-4a10-b8d7-fa9b11482aaf",
+              "_testId": "urn:uuid:284eaf80-4f5a-4003-ba6a-860f5614fdd1",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If a DID has been deactivated, DID document metadata MUST include the deactivated property with the boolean value true"
@@ -4924,7 +4924,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13217,
+                "_idleStart": 12323,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4938,7 +4938,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:34Z",
+                    "retrieved": "2026-10-26T16:17:19Z",
                     "did": {
                       "didString": "did:cheqd:testnet:4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
                       "methodSpecificId": "4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
@@ -4965,9 +4965,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:cbbaa1ff-7651-4afd-9794-cfb2e1a2d021",
+              "_testId": "urn:uuid:074fda61-9153-42a3-b545-e096a11413d9",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID has been deactivated, the didDocument is null"
@@ -4978,7 +4978,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13219,
+                "_idleStart": 12324,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4992,7 +4992,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:34Z",
+                    "retrieved": "2026-10-26T16:17:19Z",
                     "did": {
                       "didString": "did:cheqd:testnet:4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
                       "methodSpecificId": "4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
@@ -5023,7 +5023,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -5042,9 +5042,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "Ji4aSFohW0jSt9JXL7wrg",
+          "parent": "pCz1UdeQGEnlM9mNkorgx",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-          "_testId": "urn:uuid:9e8a1a89-15dc-4825-8132-3a36d9053cb8"
+          "_testId": "urn:uuid:1f5091ed-82b6-4233-903b-ffade703d9b0"
         },
         {
           "title": "iden3",
@@ -5064,9 +5064,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:667ba495-cfb3-401e-9254-2b6a3796f34b",
+              "_testId": "urn:uuid:d0826687-29eb-469b-bc99-a72e6889917b",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "Implementation has at least one valid DID to test"
@@ -5090,9 +5090,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:836e9796-db85-44f5-872f-966db01320ff",
+              "_testId": "urn:uuid:a2b06e4c-f88b-42bb-9eb2-5e813959f60c",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -5103,7 +5103,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13220,
+                "_idleStart": 12325,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5125,7 +5125,7 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
               "state": "pending"
             },
@@ -5142,9 +5142,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:34bf0d4e-1d22-4d67-ad71-08f7da2b6984",
+              "_testId": "urn:uuid:213d55fd-0846-4f97-809c-0fae44bebbfb",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -5155,7 +5155,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12325,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5178,9 +5178,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:6793278b-109d-4ff2-8408-2c2c068ff188",
+              "_testId": "urn:uuid:a37765f9-58f3-4e43-a2f0-2df4e35fa2cc",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -5191,7 +5191,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12327,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5214,9 +5214,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:318f555a-9fb2-4313-9a54-2c2253fc4286",
+              "_testId": "urn:uuid:7032d203-9cfa-4e8b-8a42-2209dc162169",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -5227,7 +5227,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12327,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5250,9 +5250,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:99b27c66-51f7-4911-80b9-a74cf9b4dccf",
+              "_testId": "urn:uuid:1c7d4818-80a3-4437-9785-244e66614100",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -5263,7 +5263,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12327,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5286,9 +5286,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:c098fdbd-3475-4e7a-81fd-bf8f94bf801c",
+              "_testId": "urn:uuid:72de820a-2c66-4ea5-be49-886fad8ab6b4",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -5299,7 +5299,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13222,
+                "_idleStart": 12328,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5322,9 +5322,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:bdd4da6b-9ade-4abc-a324-2aca9d6fc9cf",
+              "_testId": "urn:uuid:b3a24dfd-1a1a-47bf-8482-8567d978ca81",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -5335,13 +5335,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13222,
+                "_idleStart": 12328,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=If%20the%20resolution%20is%20unsuccessful%2C%20this%20structure%20MUST%20contain%20an%20error%20property%20describing%20the%20error.",
-              "duration": 0,
+              "duration": 1,
               "state": "passed",
               "speed": "fast"
             },
@@ -5358,9 +5358,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:842ad981-8b57-4450-89ec-a11887323bfb",
+              "_testId": "urn:uuid:475b124e-842d-4f5a-a4c7-600aa8507a56",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -5371,13 +5371,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13223,
+                "_idleStart": 12328,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#did-resolution-options:~:text=If%20the%20resolution%20is%20unsuccessful%2C%20this%20output%20MUST%20be%20an%20empty%20metadata%20structure.",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -5394,9 +5394,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:99ff7948-0174-4a4f-8b4b-2bd4bf952947",
+              "_testId": "urn:uuid:d8d5d82a-2830-4b2d-b30c-1426dc371d94",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -5407,7 +5407,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13223,
+                "_idleStart": 12329,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5430,9 +5430,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:553fe9cf-aab6-4265-99fc-72b3082a7e05",
+              "_testId": "urn:uuid:615b883f-8a80-4e4a-b281-c6492a03dacf",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -5443,7 +5443,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13224,
+                "_idleStart": 12329,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5466,9 +5466,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:18a0fd5b-da95-4a7e-a14b-a379fc7ecf37",
+              "_testId": "urn:uuid:5e566bb6-9621-4300-8efc-013f3096035c",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -5479,7 +5479,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13224,
+                "_idleStart": 12330,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5502,9 +5502,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:c477b799-b0ea-4295-8486-1a537f6f678d",
+              "_testId": "urn:uuid:0ebb62f7-64b5-4d2e-bda4-6b5b3ad61fb1",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the DID method is not supported, produces a METHOD_NOT_SUPPORTED error and conformant resolution result"
@@ -5515,7 +5515,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13224,
+                "_idleStart": 12330,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5538,9 +5538,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:5de2c639-03d7-4075-98c6-48801b51f79f",
+              "_testId": "urn:uuid:28d95249-505e-4d8f-ae05-428c5c5c9658",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution options are invalid, produces an INVALID_OPTIONS (or FEATURE_NOT_SUPPORTED) error and conformant resolution result"
@@ -5551,13 +5551,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13225,
+                "_idleStart": 12331,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=are%20valid.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 340,
+              "duration": 260,
               "state": "failed",
               "err": {
                 "message": "expected true to be false",
@@ -5583,9 +5583,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:34a2ce36-66a7-457e-baf4-c4ebcd245103",
+              "_testId": "urn:uuid:23f47236-c64e-4b09-87b1-084985a8caab",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the DID does not exist, produces a NOT_FOUND error and conformant resolution result"
@@ -5596,7 +5596,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13565,
+                "_idleStart": 12591,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5623,7 +5623,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -5642,9 +5642,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "Ji4aSFohW0jSt9JXL7wrg",
+          "parent": "pCz1UdeQGEnlM9mNkorgx",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-          "_testId": "urn:uuid:96339304-b29d-46a4-9a2d-250e43b19b28"
+          "_testId": "urn:uuid:e2f7ddbe-89e1-4355-8ae5-b005e9a0a36b"
         }
       ],
       "root": false,
@@ -5660,13 +5660,13 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "tqHSvQqRpdt_kAQ0Fen1f",
+      "parent": "SovBblynxBrSC2dgOz5us",
       "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
       "matrix": true,
       "report": true,
       "rowLabel": "Test Name",
       "columnLabel": "Implementer",
-      "_testId": "urn:uuid:bfc1477c-eabf-4b22-a022-811fa18a4b30",
+      "_testId": "urn:uuid:2f662046-a72f-4df9-9a64-a338be42b6b9",
       "columns": [
         "DIF",
         "cheqd",
@@ -5689,9 +5689,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:aba46abf-32aa-47a0-860a-5b65712e86a1",
+              "_testId": "urn:uuid:3bf232fc-0b8f-4cdf-be4f-d2be03e07b31",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "Implementation has at least one valid DID to test"
@@ -5715,9 +5715,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:8962c304-ea2a-4739-a174-206fc823aa50",
+              "_testId": "urn:uuid:fa0d38bf-42fb-4b74-8ac0-45243b82101f",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "Implementation has at least one valid DID to test"
@@ -5741,9 +5741,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:667ba495-cfb3-401e-9254-2b6a3796f34b",
+              "_testId": "urn:uuid:d0826687-29eb-469b-bc99-a72e6889917b",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "Implementation has at least one valid DID to test"
@@ -5773,9 +5773,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:f0c14e50-227e-4c98-8f98-d6ec0c0990fa",
+              "_testId": "urn:uuid:5263edde-414a-494d-8285-9d10c5d3a95a",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -5786,7 +5786,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11985,
+                "_idleStart": 11110,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5809,9 +5809,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:141df29f-0a2a-4e6c-811b-4274062122c3",
+              "_testId": "urn:uuid:def55628-d5a7-4ba9-a216-ce172483290c",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -5822,7 +5822,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12678,
+                "_idleStart": 11895,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5854,9 +5854,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:836e9796-db85-44f5-872f-966db01320ff",
+              "_testId": "urn:uuid:a2b06e4c-f88b-42bb-9eb2-5e813959f60c",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "All conformant DID resolvers MUST implement the DID resolution function for at least one DID method"
@@ -5867,7 +5867,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13220,
+                "_idleStart": 12325,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5896,9 +5896,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:b3afa34e-1f14-456a-bbd3-68a440f2720d",
+              "_testId": "urn:uuid:e04eb2c4-d3bd-43a2-a84a-6c71fd2c6df8",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -5909,7 +5909,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11986,
+                "_idleStart": 11111,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5932,9 +5932,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:a377a753-4c34-48cf-844b-9aaeaa9cc1db",
+              "_testId": "urn:uuid:dc20e476-7cb4-45ec-a2c5-ea60167a12f3",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -5945,7 +5945,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12678,
+                "_idleStart": 11896,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -5977,9 +5977,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:34bf0d4e-1d22-4d67-ad71-08f7da2b6984",
+              "_testId": "urn:uuid:213d55fd-0846-4f97-809c-0fae44bebbfb",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The didResolutionMetadata structure is REQUIRED."
@@ -5990,7 +5990,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12325,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6019,9 +6019,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:853bd34d-14de-43df-bd76-6f34a53522d7",
+              "_testId": "urn:uuid:a4442846-b0b5-4991-b9ae-9f6c2c41f9b2",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -6032,7 +6032,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11986,
+                "_idleStart": 11111,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6055,9 +6055,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:f9d7e41c-9da3-488e-afa2-f65ec1ebcdfe",
+              "_testId": "urn:uuid:23eecbb3-28b7-42d6-ad5a-053528857b22",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -6068,13 +6068,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12679,
+                "_idleStart": 11896,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=If%20the%20resolution%20is%20successful%2C%20this%20MUST%20be%20a%20DID%20document%20that%20is%20capable%20of%20being%20represented%20in%20one%20of%20the%20conformant%20representations%20of%20the%20Decentralized%20Identifiers%20(DIDs)%20v1.0%20specification",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "expected false to be true",
@@ -6100,9 +6100,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:6793278b-109d-4ff2-8408-2c2c068ff188",
+              "_testId": "urn:uuid:a37765f9-58f3-4e43-a2f0-2df4e35fa2cc",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If resolution is successful, the didDocument MUST be a conformant DID document"
@@ -6113,7 +6113,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12327,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6142,9 +6142,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:34bde892-8f89-4143-aa67-f45083599abd",
+              "_testId": "urn:uuid:7f3a3488-81b8-402f-9ced-778441a35ecb",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -6155,7 +6155,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11987,
+                "_idleStart": 11112,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6178,9 +6178,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:dcccae32-6ac3-4997-bf5f-24d79fe26643",
+              "_testId": "urn:uuid:a441c6a6-47cb-4dce-ab01-8e7d6dd549e4",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -6191,7 +6191,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12679,
+                "_idleStart": 11896,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6223,9 +6223,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:318f555a-9fb2-4313-9a54-2c2253fc4286",
+              "_testId": "urn:uuid:7032d203-9cfa-4e8b-8a42-2209dc162169",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The value of id in the resolved DID document MUST match the DID that was resolved"
@@ -6236,7 +6236,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12327,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6265,9 +6265,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:25b214de-07f2-4538-83b2-659f2863a04b",
+              "_testId": "urn:uuid:95c89cb4-7d85-4040-8116-866639461fe2",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -6278,7 +6278,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11987,
+                "_idleStart": 11113,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6301,9 +6301,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:853c360d-51ac-4c90-891d-88447b4fa384",
+              "_testId": "urn:uuid:c90609ad-84df-408c-95ad-da15b353ca51",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -6314,7 +6314,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12679,
+                "_idleStart": 11897,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6346,9 +6346,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:99b27c66-51f7-4911-80b9-a74cf9b4dccf",
+              "_testId": "urn:uuid:1c7d4818-80a3-4437-9785-244e66614100",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution is successful, the `didDocumentMetadata` MUST be a metadata structure"
@@ -6359,7 +6359,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13221,
+                "_idleStart": 12327,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6388,9 +6388,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:115ac274-97cf-4fab-a880-b3247d8ad0c5",
+              "_testId": "urn:uuid:19bd952f-3cd9-4873-a714-1f40f7fc2bea",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -6401,7 +6401,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11990,
+                "_idleStart": 11115,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6433,9 +6433,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:83f271a3-d3bb-4667-81cc-d76d9874c3e4",
+              "_testId": "urn:uuid:75000811-1c0c-4fdc-a43f-1fd53a122346",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -6446,13 +6446,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12682,
+                "_idleStart": 11899,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=Validate%20that%20the%20input%20DID%20conforms%20to%20the%20did%20rule%20of%20the%20DID%20Syntax.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 0,
+              "duration": 1,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -6477,9 +6477,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:99ff7948-0174-4a4f-8b4b-2bd4bf952947",
+              "_testId": "urn:uuid:d8d5d82a-2830-4b2d-b30c-1426dc371d94",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The did input MUST be a conformant DID; otherwise produces an INVALID_DID error and conformant resolution result"
@@ -6490,7 +6490,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13223,
+                "_idleStart": 12329,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6519,9 +6519,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:9ede8b9e-dee4-44d7-9c71-be0c02b6227e",
+              "_testId": "urn:uuid:fd2a255b-29c4-4592-801c-a8ad558e267d",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -6532,7 +6532,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11990,
+                "_idleStart": 11116,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6555,9 +6555,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:d3e2081b-a5d2-46cb-b0af-41a00dea8ddc",
+              "_testId": "urn:uuid:00a6ef7d-7841-43b2-b3b8-c6a2ef601f52",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -6568,13 +6568,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12683,
+                "_idleStart": 11900,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=If%20the%20resolution%20is%20unsuccessful%2C%20this%20structure%20MUST%20contain%20an%20error%20property%20describing%20the%20error.",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -6591,9 +6591,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:553fe9cf-aab6-4265-99fc-72b3082a7e05",
+              "_testId": "urn:uuid:615b883f-8a80-4e4a-b281-c6492a03dacf",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "The error property in DID Resolution Metadata is REQUIRED when there is an error in the resolution process."
@@ -6604,7 +6604,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13224,
+                "_idleStart": 12329,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6633,9 +6633,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:c49fd14d-fb1a-410b-b200-d03cc9ef57fe",
+              "_testId": "urn:uuid:acb40944-e7b7-4f4f-acde-004809375e3c",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -6646,7 +6646,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11991,
+                "_idleStart": 11116,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6669,9 +6669,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:4afafc04-a860-4b5e-893c-60596abc82cd",
+              "_testId": "urn:uuid:672ccc58-fffc-483b-b823-9bfea41a78d1",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -6682,7 +6682,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12683,
+                "_idleStart": 11900,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6696,7 +6696,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:32Z",
+                    "retrieved": "2026-10-26T16:17:18Z",
                     "did": {}
                   }
                 },
@@ -6719,9 +6719,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:18a0fd5b-da95-4a7e-a14b-a379fc7ecf37",
+              "_testId": "urn:uuid:5e566bb6-9621-4300-8efc-013f3096035c",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution is unsuccessful, the `didDocumentMetadata` output MUST be an empty metadata structure"
@@ -6732,7 +6732,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13224,
+                "_idleStart": 12330,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6761,9 +6761,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:712f28dc-1e59-49c9-855c-89d8c2278c55",
+              "_testId": "urn:uuid:bfd1a1bf-8a49-488c-8278-ec45e58ce998",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the DID method is not supported, produces a METHOD_NOT_SUPPORTED error and conformant resolution result"
@@ -6774,7 +6774,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11991,
+                "_idleStart": 11116,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6806,9 +6806,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:eb08fc6e-8638-4f5a-a73a-b315fab088bb",
+              "_testId": "urn:uuid:9d80627b-cdcf-41ba-af70-ab70ca1910e5",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID method is not supported, produces a METHOD_NOT_SUPPORTED error and conformant resolution result"
@@ -6819,13 +6819,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12684,
+                "_idleStart": 11900,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=Determine%20whether%20the%20DID%20method%20of%20the%20input%20DID%20is%20supported%20by%20the%20DID%20resolver%20that%20implements%20this%20algorithm.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -6850,9 +6850,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:c477b799-b0ea-4295-8486-1a537f6f678d",
+              "_testId": "urn:uuid:0ebb62f7-64b5-4d2e-bda4-6b5b3ad61fb1",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the DID method is not supported, produces a METHOD_NOT_SUPPORTED error and conformant resolution result"
@@ -6863,7 +6863,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13224,
+                "_idleStart": 12330,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -6892,9 +6892,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "-NYBG3pMpcFaA_7pn7aFI",
+              "parent": "_HSHvqnYsnWhBzbS8V7iW",
               "ctx": null,
-              "_testId": "urn:uuid:838babbb-f0cb-4162-a01c-c9ce13b135b7",
+              "_testId": "urn:uuid:89b24639-7ef2-42ae-9938-cff923a2e684",
               "cell": {
                 "columnId": "DIF",
                 "rowId": "If the resolution options are invalid, produces an INVALID_OPTIONS (or FEATURE_NOT_SUPPORTED) error and conformant resolution result"
@@ -6905,13 +6905,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 11993,
+                "_idleStart": 11118,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=are%20valid.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 681,
+              "duration": 774,
               "state": "failed",
               "err": {}
             },
@@ -6928,9 +6928,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:57bee565-de71-4fd2-bae4-5323e37292d2",
+              "_testId": "urn:uuid:db16695a-c542-489c-8ed4-18fe26c7fb49",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the resolution options are invalid, produces an INVALID_OPTIONS (or FEATURE_NOT_SUPPORTED) error and conformant resolution result"
@@ -6941,13 +6941,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 12685,
+                "_idleStart": 11902,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=are%20valid.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 531,
+              "duration": 420,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -6972,9 +6972,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:5de2c639-03d7-4075-98c6-48801b51f79f",
+              "_testId": "urn:uuid:28d95249-505e-4d8f-ae05-428c5c5c9658",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the resolution options are invalid, produces an INVALID_OPTIONS (or FEATURE_NOT_SUPPORTED) error and conformant resolution result"
@@ -6985,13 +6985,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13225,
+                "_idleStart": 12331,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=are%20valid.%20If%20not%2C%20the%20DID%20resolver%20MUST%20return%20the%20following%20result%3A",
-              "duration": 340,
+              "duration": 260,
               "state": "failed",
               "err": {
                 "message": "expected true to be false",
@@ -7033,9 +7033,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:32269f7d-1f17-47d4-836a-9bf147335000",
+              "_testId": "urn:uuid:d33550b6-abdd-4d4b-9f7d-0d565ff07c65",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID does not exist, produces a NOT_FOUND error and conformant resolution result"
@@ -7046,13 +7046,13 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13217,
+                "_idleStart": 12323,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
               "link": "https://w3c.github.io/did-resolution/#types:~:text=does%20not%20exist%2C%20return%20the%20following%20result%3A",
-              "duration": 1,
+              "duration": 0,
               "state": "failed",
               "err": {
                 "message": "didResolutionMetadata.error must be an object with a `type` property (e.g. {type: \"https://www.w3.org/ns/did#NOT_FOUND\"}): expected 'representationNotSupported' to be an object",
@@ -7077,9 +7077,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "Nhi9clufdBXPWFtYTZLMf",
+              "parent": "6ja7wnntusYn317UxR9Lw",
               "ctx": null,
-              "_testId": "urn:uuid:34a2ce36-66a7-457e-baf4-c4ebcd245103",
+              "_testId": "urn:uuid:23f47236-c64e-4b09-87b1-084985a8caab",
               "cell": {
                 "columnId": "iden3",
                 "rowId": "If the DID does not exist, produces a NOT_FOUND error and conformant resolution result"
@@ -7090,7 +7090,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13565,
+                "_idleStart": 12591,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -7129,9 +7129,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:e36df8d4-5780-4a10-b8d7-fa9b11482aaf",
+              "_testId": "urn:uuid:284eaf80-4f5a-4003-ba6a-860f5614fdd1",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If a DID has been deactivated, DID document metadata MUST include the deactivated property with the boolean value true"
@@ -7142,7 +7142,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13217,
+                "_idleStart": 12323,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -7156,7 +7156,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:34Z",
+                    "retrieved": "2026-10-26T16:17:19Z",
                     "did": {
                       "didString": "did:cheqd:testnet:4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
                       "methodSpecificId": "4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
@@ -7209,9 +7209,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/tests/4-did-resolution.js",
-              "parent": "t_yLyltLiuS4nPwszajG-",
+              "parent": "M04kxkv4wE3-LXB6lA2f0",
               "ctx": null,
-              "_testId": "urn:uuid:cbbaa1ff-7651-4afd-9794-cfb2e1a2d021",
+              "_testId": "urn:uuid:074fda61-9153-42a3-b545-e096a11413d9",
               "cell": {
                 "columnId": "cheqd",
                 "rowId": "If the DID has been deactivated, the didDocument is null"
@@ -7222,7 +7222,7 @@
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 13219,
+                "_idleStart": 12324,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -7236,7 +7236,7 @@
                   "didResolutionMetadata": {
                     "contentType": "application/did-resolution",
                     "error": "representationNotSupported",
-                    "retrieved": "2026-10-26T16:07:34Z",
+                    "retrieved": "2026-10-26T16:17:19Z",
                     "did": {
                       "didString": "did:cheqd:testnet:4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
                       "methodSpecificId": "4fb1cf4e-55bc-41d7-916a-14fad0c5ed77",
