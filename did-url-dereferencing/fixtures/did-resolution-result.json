@@ -61,7 +61,7 @@
     }]
   },
   "didResolutionMetadata": {
-    "contentType": "application/did+ld+json"
+    "contentType": "application/did+json"
   },
   "didDocumentMetadata": {
     "created": "2026-01-01T00:00:00Z",
