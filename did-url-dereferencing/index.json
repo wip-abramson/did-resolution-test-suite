@@ -22,9 +22,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:552571c5-6fcd-46e5-9901-50356fda46cd",
+              "_testId": "urn:uuid:36be58a2-b30e-434d-81a0-a3bbb76ae217",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Results are for the current test vectors (version 0.1.0)"
@@ -48,9 +48,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:613fc530-6670-41e7-9f85-43226b6d22f7",
+              "_testId": "urn:uuid:37f0eb15-8338-48e5-bf59-7cba0909d189",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Input that does not conform to the did-url rule ends processing with INVALID_DID_URL"
@@ -58,7 +58,7 @@
               "_events": {},
               "_eventsCount": 1,
               "link": "https://w3c.github.io/did-resolution/#prepare-for-resolution",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -75,9 +75,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:3b869773-c884-430b-bbfe-c6603d67a001",
+              "_testId": "urn:uuid:74f40d86-fcf8-4279-8c1a-1ea709c9b30c",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Method names must be lowercase, so this does not conform to the did-url rule"
@@ -102,9 +102,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:87c268e6-44ba-4295-9a7f-b44f64242d13",
+              "_testId": "urn:uuid:86a1d28c-7c22-4eef-9389-54a5253bacb9",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "A failed resolution surfaces as a resolution error. The did:test resolver returns did-resolution-result-not-found.json for any DID other than did:test:deref"
@@ -129,9 +129,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:7f8e01fb-1b0a-46fe-be57-d1bf4eeab3ec",
+              "_testId": "urn:uuid:b3270aad-f774-45cf-bc1f-37744e56766c",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "No service, path or strategy-defining query parameter, so the DID document is returned"
@@ -156,9 +156,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:5a1d7c5a-cb22-4fb3-844a-a12720dc1ba6",
+              "_testId": "urn:uuid:37168e98-a933-4833-ac2a-0bb02adc6495",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "A fragment does not change the strategy; it is applied to the returned DID document when the handler result is used"
@@ -183,9 +183,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:969f48ec-0bd7-4422-a38e-45c5348d8bfb",
+              "_testId": "urn:uuid:45a5e0eb-c2c2-47e3-bdd3-a813dbd9d16a",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "versionId only affects resolution, not the handling strategy (Query Parameters Step)"
@@ -210,9 +210,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:977fc154-e6b2-4530-a52e-ac908c7377b6",
+              "_testId": "urn:uuid:615ef791-187b-4c7d-8609-a745062b4c06",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "service=%23files resolves to did:test:deref#files and matches the relative id #files"
@@ -237,9 +237,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:f0b2a2e0-a4ea-4899-8f65-f94569554e83",
+              "_testId": "urn:uuid:8caf8df5-5a7b-4c48-b74f-ac0f8cd9cbb0",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "An absolute DID URL in the service parameter matches the relative id #files"
@@ -264,9 +264,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:455ebd5e-d0ff-4ea9-9981-64deb9cc631a",
+              "_testId": "urn:uuid:d8043e6c-60a7-486d-ad45-cf10891bfd76",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "service=%23mirror matches the absolute id did:test:deref#mirror. One of its two endpoints returns 404, so the client must try the other one (whichever it picks first) and return mirror.json"
@@ -291,9 +291,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:50c47649-8f7a-48db-98bc-83c2cb97975b",
+              "_testId": "urn:uuid:17960d99-c9e9-49fd-9a39-50b5e02f00c3",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The selected service's type DIDCommMessaging defines its own handling strategy, so the Default Service Handler is not used. A client with no DIDCommMessaging handler raises HANDLER_NOT_FOUND"
@@ -301,7 +301,7 @@
               "_events": {},
               "_eventsCount": 1,
               "link": "https://w3c.github.io/did-resolution/#determine-handling-strategy",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             },
@@ -318,9 +318,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:0e54834f-7b78-42bf-9c47-198ec2b5e464",
+              "_testId": "urn:uuid:fad5a2c9-2a32-4152-a77a-51a20684e463",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The Default Service Handler does not process relativeRef, so the resource URL is the service endpoint unchanged"
@@ -345,9 +345,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:8cc02a45-5d2e-4d48-b82c-51e5c8a01628",
+              "_testId": "urn:uuid:9cd52b15-f421-4e91-a64d-682c68ae38be",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "service=files with no leading #"
@@ -372,9 +372,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:3d2415eb-5f44-48ec-815d-26c65f05fb9a",
+              "_testId": "urn:uuid:22ef3a97-9eaf-40c9-9784-dc442b4a21c9",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "No service matches, so SERVICE_NOT_FOUND is raised and processing continues to the Default DID Document Step"
@@ -399,9 +399,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:2c95720a-bf20-4572-a339-c59375ab6199",
+              "_testId": "urn:uuid:20d57bf8-531d-46e8-9798-03c5be796c81",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "More than one service parameter raises MULTIPLE_SERVICE_PARAMETERS and continues to the Default DID Document Step"
@@ -426,9 +426,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:7ec40314-195b-4811-8e6e-b9ba245dcf4f",
+              "_testId": "urn:uuid:7e5c7b8b-7146-4d04-9eff-732db35afa5f",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The service path /files/ is stripped and the rest is appended to the endpoint path. The path also matches the #root PathHandler, so this checks the Services Step runs first"
@@ -453,9 +453,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:a1ec7786-6bf6-4905-a396-22e1bdb742fd",
+              "_testId": "urn:uuid:cab7872a-bed0-46ae-85d9-ca9f1642d28c",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Dot segments that stay inside the endpoint path are removed and allowed"
@@ -480,9 +480,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:319d8c56-b805-4c2a-aa40-ae4322df1595",
+              "_testId": "urn:uuid:50128f33-402a-46e0-adfe-c0e1299c179d",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The normalized resource path escapes the endpoint path .../resources/files/. Returning the canary secret.json means the client fetched it"
@@ -507,9 +507,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:9bf0408d-b621-4a1b-bf7f-1c85e583fe55",
+              "_testId": "urn:uuid:4e8c0a5d-0250-4fea-bece-8f0326079640",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Percent-encoded dot segments are decoded before normalization, so this also escapes .../resources/files/. Returning the canary secret.json means the client fetched it"
@@ -534,9 +534,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:043cf4b0-363c-44d2-b49b-586d8856f896",
+              "_testId": "urn:uuid:67d132b6-1846-4198-93b5-e4729374e43e",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The DID URL path does not start with the service path /files/",
@@ -564,9 +564,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:034b0310-f87f-441f-9e3b-ff3a2f7f4034",
+              "_testId": "urn:uuid:a1fc0de4-443f-4c14-9d8e-5a4c90f251f8",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "/image.png matches /, /image and /image.png; the longest match #SecuredImage is selected and its secondary type LinkedResource defines the strategy"
@@ -591,9 +591,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:ada71873-55d1-462f-b06d-20744668e8e3",
+              "_testId": "urn:uuid:411ad137-9272-4294-9ae2-f7a8ed28c722",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "#image is the longest match; PathService defines no strategy, so the Default Service Handler is used"
@@ -618,9 +618,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:08280c6b-617b-44c4-8e10-4a2536e47262",
+              "_testId": "urn:uuid:a91160c7-1786-492e-9f26-9682b5e09fb5",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "/image is a string prefix of /imagex.json but not a whole path segment"
@@ -645,9 +645,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:de20faa0-01a8-4aa3-8dac-000444b37d20",
+              "_testId": "urn:uuid:8e9f192a-b52e-4d27-a2fe-e7037f4b0aac",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Only #root (path /) matches"
@@ -672,9 +672,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:9abace55-e5f2-479b-927d-bbeeb7bc44cd",
+              "_testId": "urn:uuid:a5b0de54-7b33-4b0a-a45b-d9e43862e7e1",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "#bare has PathHandler as its only type, which Section 5.3 sends to the Default Service Handler"
@@ -699,9 +699,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:e26e3387-1a1b-460a-84e2-261b339c5eed",
+              "_testId": "urn:uuid:60e437b3-c413-4466-92ad-74490be63d08",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "#dupA and #dupB both match with the same length, so MULTIPLE_MATCHING_PATH_HANDLERS is raised and processing continues to the Default DID Document Step"
@@ -730,7 +730,7 @@
               "_currentRetry": 0,
               "pending": false,
               "type": "hook",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
               "originalTitle": "\"before each\" hook: setupRow",
@@ -749,9 +749,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "fRd30g-X2Qstf875TT4oW",
+          "parent": "HcESxN5O-363-QgXdaR_t",
           "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-          "_testId": "urn:uuid:fefca7e9-589b-47ea-bfaf-edd85fa13ac3"
+          "_testId": "urn:uuid:ae55f4d3-fd76-40df-809c-8bded06f5f66"
         }
       ],
       "root": false,
@@ -767,13 +767,13 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "mBT1AEG5jwh48wpW6He4L",
+      "parent": "VtEIgkk0uZl6i-6zefTv_",
       "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
       "matrix": true,
       "report": true,
       "rowLabel": "Test Name",
       "columnLabel": "Implementer",
-      "_testId": "urn:uuid:ae2cf581-ad61-47e1-bb71-0f72a62a0392",
+      "_testId": "urn:uuid:09b78033-1f9d-4094-a103-00ff9feab0a3",
       "columns": [
         "Reference Client"
       ],
@@ -794,9 +794,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:552571c5-6fcd-46e5-9901-50356fda46cd",
+              "_testId": "urn:uuid:36be58a2-b30e-434d-81a0-a3bbb76ae217",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Results are for the current test vectors (version 0.1.0)"
@@ -826,9 +826,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:613fc530-6670-41e7-9f85-43226b6d22f7",
+              "_testId": "urn:uuid:37f0eb15-8338-48e5-bf59-7cba0909d189",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Input that does not conform to the did-url rule ends processing with INVALID_DID_URL"
@@ -836,7 +836,7 @@
               "_events": {},
               "_eventsCount": 1,
               "link": "https://w3c.github.io/did-resolution/#prepare-for-resolution",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -859,9 +859,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:3b869773-c884-430b-bbfe-c6603d67a001",
+              "_testId": "urn:uuid:74f40d86-fcf8-4279-8c1a-1ea709c9b30c",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Method names must be lowercase, so this does not conform to the did-url rule"
@@ -892,9 +892,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:87c268e6-44ba-4295-9a7f-b44f64242d13",
+              "_testId": "urn:uuid:86a1d28c-7c22-4eef-9389-54a5253bacb9",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "A failed resolution surfaces as a resolution error. The did:test resolver returns did-resolution-result-not-found.json for any DID other than did:test:deref"
@@ -925,9 +925,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:7f8e01fb-1b0a-46fe-be57-d1bf4eeab3ec",
+              "_testId": "urn:uuid:b3270aad-f774-45cf-bc1f-37744e56766c",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "No service, path or strategy-defining query parameter, so the DID document is returned"
@@ -958,9 +958,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:5a1d7c5a-cb22-4fb3-844a-a12720dc1ba6",
+              "_testId": "urn:uuid:37168e98-a933-4833-ac2a-0bb02adc6495",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "A fragment does not change the strategy; it is applied to the returned DID document when the handler result is used"
@@ -991,9 +991,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:969f48ec-0bd7-4422-a38e-45c5348d8bfb",
+              "_testId": "urn:uuid:45a5e0eb-c2c2-47e3-bdd3-a813dbd9d16a",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "versionId only affects resolution, not the handling strategy (Query Parameters Step)"
@@ -1024,9 +1024,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:977fc154-e6b2-4530-a52e-ac908c7377b6",
+              "_testId": "urn:uuid:615ef791-187b-4c7d-8609-a745062b4c06",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "service=%23files resolves to did:test:deref#files and matches the relative id #files"
@@ -1057,9 +1057,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:f0b2a2e0-a4ea-4899-8f65-f94569554e83",
+              "_testId": "urn:uuid:8caf8df5-5a7b-4c48-b74f-ac0f8cd9cbb0",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "An absolute DID URL in the service parameter matches the relative id #files"
@@ -1090,9 +1090,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:455ebd5e-d0ff-4ea9-9981-64deb9cc631a",
+              "_testId": "urn:uuid:d8043e6c-60a7-486d-ad45-cf10891bfd76",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "service=%23mirror matches the absolute id did:test:deref#mirror. One of its two endpoints returns 404, so the client must try the other one (whichever it picks first) and return mirror.json"
@@ -1123,9 +1123,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:50c47649-8f7a-48db-98bc-83c2cb97975b",
+              "_testId": "urn:uuid:17960d99-c9e9-49fd-9a39-50b5e02f00c3",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The selected service's type DIDCommMessaging defines its own handling strategy, so the Default Service Handler is not used. A client with no DIDCommMessaging handler raises HANDLER_NOT_FOUND"
@@ -1133,7 +1133,7 @@
               "_events": {},
               "_eventsCount": 1,
               "link": "https://w3c.github.io/did-resolution/#determine-handling-strategy",
-              "duration": 1,
+              "duration": 0,
               "state": "passed",
               "speed": "fast"
             }
@@ -1156,9 +1156,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:0e54834f-7b78-42bf-9c47-198ec2b5e464",
+              "_testId": "urn:uuid:fad5a2c9-2a32-4152-a77a-51a20684e463",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The Default Service Handler does not process relativeRef, so the resource URL is the service endpoint unchanged"
@@ -1189,9 +1189,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:8cc02a45-5d2e-4d48-b82c-51e5c8a01628",
+              "_testId": "urn:uuid:9cd52b15-f421-4e91-a64d-682c68ae38be",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "service=files with no leading #"
@@ -1222,9 +1222,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:3d2415eb-5f44-48ec-815d-26c65f05fb9a",
+              "_testId": "urn:uuid:22ef3a97-9eaf-40c9-9784-dc442b4a21c9",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "No service matches, so SERVICE_NOT_FOUND is raised and processing continues to the Default DID Document Step"
@@ -1255,9 +1255,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:2c95720a-bf20-4572-a339-c59375ab6199",
+              "_testId": "urn:uuid:20d57bf8-531d-46e8-9798-03c5be796c81",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "More than one service parameter raises MULTIPLE_SERVICE_PARAMETERS and continues to the Default DID Document Step"
@@ -1288,9 +1288,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:7ec40314-195b-4811-8e6e-b9ba245dcf4f",
+              "_testId": "urn:uuid:7e5c7b8b-7146-4d04-9eff-732db35afa5f",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The service path /files/ is stripped and the rest is appended to the endpoint path. The path also matches the #root PathHandler, so this checks the Services Step runs first"
@@ -1321,9 +1321,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:a1ec7786-6bf6-4905-a396-22e1bdb742fd",
+              "_testId": "urn:uuid:cab7872a-bed0-46ae-85d9-ca9f1642d28c",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Dot segments that stay inside the endpoint path are removed and allowed"
@@ -1354,9 +1354,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:319d8c56-b805-4c2a-aa40-ae4322df1595",
+              "_testId": "urn:uuid:50128f33-402a-46e0-adfe-c0e1299c179d",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The normalized resource path escapes the endpoint path .../resources/files/. Returning the canary secret.json means the client fetched it"
@@ -1387,9 +1387,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:9bf0408d-b621-4a1b-bf7f-1c85e583fe55",
+              "_testId": "urn:uuid:4e8c0a5d-0250-4fea-bece-8f0326079640",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Percent-encoded dot segments are decoded before normalization, so this also escapes .../resources/files/. Returning the canary secret.json means the client fetched it"
@@ -1420,9 +1420,9 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:043cf4b0-363c-44d2-b49b-586d8856f896",
+              "_testId": "urn:uuid:67d132b6-1846-4198-93b5-e4729374e43e",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "The DID URL path does not start with the service path /files/",
@@ -1456,9 +1456,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:034b0310-f87f-441f-9e3b-ff3a2f7f4034",
+              "_testId": "urn:uuid:a1fc0de4-443f-4c14-9d8e-5a4c90f251f8",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "/image.png matches /, /image and /image.png; the longest match #SecuredImage is selected and its secondary type LinkedResource defines the strategy"
@@ -1489,9 +1489,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:ada71873-55d1-462f-b06d-20744668e8e3",
+              "_testId": "urn:uuid:411ad137-9272-4294-9ae2-f7a8ed28c722",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "#image is the longest match; PathService defines no strategy, so the Default Service Handler is used"
@@ -1522,9 +1522,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:08280c6b-617b-44c4-8e10-4a2536e47262",
+              "_testId": "urn:uuid:a91160c7-1786-492e-9f26-9682b5e09fb5",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "/image is a string prefix of /imagex.json but not a whole path segment"
@@ -1555,9 +1555,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:de20faa0-01a8-4aa3-8dac-000444b37d20",
+              "_testId": "urn:uuid:8e9f192a-b52e-4d27-a2fe-e7037f4b0aac",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "Only #root (path /) matches"
@@ -1588,9 +1588,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:9abace55-e5f2-479b-927d-bbeeb7bc44cd",
+              "_testId": "urn:uuid:a5b0de54-7b33-4b0a-a45b-d9e43862e7e1",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "#bare has PathHandler as its only type, which Section 5.3 sends to the Default Service Handler"
@@ -1621,9 +1621,9 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/did-resolution-test-suite/did-resolution-test-suite/did-url-dereferencing/tests/dereferencing.js",
-              "parent": "WOnMBjJBbsvPTC9ZENM36",
+              "parent": "Nrmw-00Ur_YmcuBnRxB7f",
               "ctx": null,
-              "_testId": "urn:uuid:e26e3387-1a1b-460a-84e2-261b339c5eed",
+              "_testId": "urn:uuid:60e437b3-c413-4466-92ad-74490be63d08",
               "cell": {
                 "columnId": "Reference Client",
                 "rowId": "#dupA and #dupB both match with the same length, so MULTIPLE_MATCHING_PATH_HANDLERS is raised and processing continues to the Default DID Document Step"
